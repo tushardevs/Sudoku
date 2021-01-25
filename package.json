@@ -1,0 +1,23 @@
+{
+  "name": "Sudoku-Game",
+  "version": "1.0.0",
+  "description": "This is fully responsive Sudoku Game with various levels and also with Sudoku Solver.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushardevs/Sudoku-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushardevs/Sudoku-Game/issues"
+  },
+  "homepage": "https://github.com/tushardevs/Sudoku-Game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
